@@ -1,2 +1,2 @@
 # HTML_Proj1_Blog
-Beginner HTML Project
+Beginner HTML Project for Othello
