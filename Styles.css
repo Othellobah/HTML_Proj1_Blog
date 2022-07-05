@@ -1,0 +1,44 @@
+
+
+header {
+    border: 1px solid gray;
+    width: fit-content;
+}
+
+ul li {
+    display: inline-block;
+    margin: 70;
+    padding: 3px;
+}
+
+.body-heading  {
+    vertical-align: baseline;
+}
+
+.body-heading h1, h6 {
+    text-align: center;
+}
+
+.heading-image {
+    text-align: center;
+}
+
+section figure img {
+    border-radius: 50%;
+    
+}
+
+figure .Author {
+   border: none;
+   padding: 0px;
+   border: 1px solid lightgray;
+   width:fit-content;
+   float:inherit;
+    
+}
+
+section .description {
+    border: 1px solid lightgray;
+    width: fit-content;
+    float:inherit;
+}
