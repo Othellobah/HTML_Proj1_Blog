@@ -169,7 +169,6 @@ footer {
     font-style: inherit;
     text-decoration: none;
     width: 100%;
-    padding: 25px;
     
 }
 
@@ -196,9 +195,6 @@ footer {
 .footer-logo img {
     width: 70px;
 }
-
-
-
 
 .footer_two {
     display: flex;
@@ -276,6 +272,5 @@ div img {
 .search form {
     padding: 0;
     font-size: 0;
-
 }
 
